@@ -5,4 +5,4 @@ I'm [Specy](https://portfolio.specy.app/), an italian developer who loves creati
 - Other notable achievements: [soundness bug in the rust language](https://github.com/rust-lang/rust/issues/132353) ([blog post](https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild))
 - My best (and favourite) project: [rooc modeling language](https://github.com/Specy/rooc)
 
-[My blog](https://specy.app/blog/)
+[My blog](https://specy.app/blog/), [My apps](https://specy.app/)
